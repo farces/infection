@@ -1,0 +1,1 @@
+Simple module to wrap a method with another methid pre-entry, designed to be used at runtime in conjunction with code.interact() to assist in debugging python applications.
