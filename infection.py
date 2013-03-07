@@ -5,7 +5,7 @@ infected = {}
 
 class Infection:
     """Represents a transform from an original method to an infected method. Basic implementation calls the target
-       function followed by the original source function, with arguments unmodified.
+       function followed by the original source function, with arguments possibly modified.
 
        Typical use case: provide debug info before entering a function.
 
